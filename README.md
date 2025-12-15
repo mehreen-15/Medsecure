@@ -61,11 +61,11 @@ The system will initialize and print the local URL:
 =============================================
  MEDSECURE BACKEND SYSTEM ONLINE
  AI Models Initialized & Listening
- Open browser at: http://127.0.0.1:5000
+ Open browser at: http://127.0.0.1:8080
 =============================================
 ```
 
-Open your web browser and navigate to the address: **`http://127.0.0.1:5000`**
+Open your web browser and navigate to the address: **`http://127.0.0.1:8080`**
 
 ## Usage and Demonstration Guide
 
